@@ -1,0 +1,15 @@
+current directory: /Users/toshihiro/programs/app_for_recruit/tmp_rails51/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/toshihiro/.rbenv/versions/2.5.7/bin/ruby -r ./siteconf20200603-86550-56cu0y.rb extconf.rb
+creating Makefile
+
+current directory: /Users/toshihiro/programs/app_for_recruit/tmp_rails51/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/toshihiro/programs/app_for_recruit/tmp_rails51/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/toshihiro/programs/app_for_recruit/tmp_rails51/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200603-86550-1m6ygt9

@@ -1,0 +1,7 @@
+{
+  "name": "tmp_rails51",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
